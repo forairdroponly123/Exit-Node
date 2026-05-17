@@ -37,7 +37,7 @@
 // of an offline exit node is that ChatGPT/Claude/Grok stop working;
 // other sites are unaffected.
 
-const PSK = "CHANGE_ME_TO_A_STRONG_SECRET";
+const PSK = "3bbdfde066260f908e14e193325f235f58109c379134715f8a0a0b4d9c3a7065";
 
 // Headers the client may send that must NOT be forwarded to the
 // destination — they're hop-by-hop or would break re-encoding.
